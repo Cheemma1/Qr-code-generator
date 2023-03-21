@@ -33,7 +33,7 @@ border-radius: var(--border-radius-all);
 }
 .container input{
     width: 100%;
-    height: 30px;
+    height: 40px;
     outline: 0;
     margin-bottom: 1rem;
     border: 1px solid #34A853;
@@ -47,7 +47,7 @@ p{
 }
 .container button{
     width: 100%;
-    height: 30px;
+    height: 40px;
     cursor: pointer;
     outline: 0;
     border: 0;
@@ -70,6 +70,7 @@ p{
 #imgbox img{
     width: 100%;
     padding: 10px;
+   
 }
 
 #imgbox.show-img{
