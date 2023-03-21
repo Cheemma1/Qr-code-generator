@@ -76,7 +76,7 @@ p{
 #imgbox.show-img{
     max-height: 300px;
     margin: 0.5rem auto;
-   transition: opacity 0.5s 0.05s ease
+   transition: opacity 0.5s 0.05s ease;
 }
 
 .error{
