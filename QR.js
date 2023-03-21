@@ -12,6 +12,7 @@ imgBox.classList.add("show-img");
     }
 else {
 error.style.display="block";
+ qrImg.style.display="none";
 input.style.border=" 1px solid #EA4335";
 }
 });
